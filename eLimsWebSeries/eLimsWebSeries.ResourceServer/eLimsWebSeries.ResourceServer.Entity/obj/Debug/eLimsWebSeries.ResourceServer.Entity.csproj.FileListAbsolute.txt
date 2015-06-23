@@ -1,0 +1,6 @@
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Entity\obj\Debug\eLimsWebSeries.ResourceServer.Entity.csprojResolveAssemblyReference.cache
+C:\Users\fzcl\Documents\eLimsWebSeries\Output\eLimsWebSeries.ResourceServer.Entity.dll.config
+C:\Users\fzcl\Documents\eLimsWebSeries\Output\eLimsWebSeries.ResourceServer.Entity.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\Output\eLimsWebSeries.ResourceServer.Entity.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Entity\obj\Debug\eLimsWebSeries.ResourceServer.Entity.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Entity\obj\Debug\eLimsWebSeries.ResourceServer.Entity.pdb

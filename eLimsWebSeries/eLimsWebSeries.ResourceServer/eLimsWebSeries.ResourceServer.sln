@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{C5C3F0FD-44B9-420F-ADCD-B7EAC07B03DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_Dal", "1_Dal", "{8B9D3C4B-613A-44B4-A877-43539DCFE4A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_Services", "2_Services", "{5997EBEE-E664-438B-BC26-D2CE5EA43738}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_Business", "3_Business", "{C43803B4-0EDA-4E41-9477-E09A4720E634}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_Controllers", "5_Controllers", "{58636276-49BC-4FBB-B394-F6A3D7B44233}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0F221297-A8D8-4C4F-B523-700CAA0F5B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLimsWebSeries.ResourceServer.Entity", "eLimsWebSeries.ResourceServer.Entity\eLimsWebSeries.ResourceServer.Entity.csproj", "{8558B21E-A7A0-40EE-8ADA-107E9B84195F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLimsWebSeries.ResourceServer.Dal", "eLimsWebSeries.ResourceServer.Dal\eLimsWebSeries.ResourceServer.Dal.csproj", "{9C6DF689-09A8-43BF-B297-09D6837FD439}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_Activity", "4_Activity", "{A5644F2A-3C12-4E0E-BFE8-DAF95D20F333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8558B21E-A7A0-40EE-8ADA-107E9B84195F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8558B21E-A7A0-40EE-8ADA-107E9B84195F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8558B21E-A7A0-40EE-8ADA-107E9B84195F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8558B21E-A7A0-40EE-8ADA-107E9B84195F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6DF689-09A8-43BF-B297-09D6837FD439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6DF689-09A8-43BF-B297-09D6837FD439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6DF689-09A8-43BF-B297-09D6837FD439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6DF689-09A8-43BF-B297-09D6837FD439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8558B21E-A7A0-40EE-8ADA-107E9B84195F} = {C5C3F0FD-44B9-420F-ADCD-B7EAC07B03DE}
+		{9C6DF689-09A8-43BF-B297-09D6837FD439} = {8B9D3C4B-613A-44B4-A877-43539DCFE4A2}
+	EndGlobalSection
+EndGlobal

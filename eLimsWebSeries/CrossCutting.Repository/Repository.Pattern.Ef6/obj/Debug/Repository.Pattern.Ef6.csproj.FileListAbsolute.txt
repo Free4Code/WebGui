@@ -1,0 +1,16 @@
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\obj\Debug\Repository.Pattern.Ef6.csprojResolveAssemblyReference.cache
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\Repository.Pattern.Ef6.dll.config
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\Repository.Pattern.Ef6.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\EntityFramework.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\LinqKit.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\Repository.Pattern.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\Repository.Pattern.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\EntityFramework.xml
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\obj\Debug\Repository.Pattern.Ef6.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\CrossCutting.Repository\Repository.Pattern.Ef6\obj\Debug\Repository.Pattern.Ef6.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\Output\Repository.Pattern.Ef6.dll.config
+C:\Users\fzcl\Documents\eLimsWebSeries\Output\Repository.Pattern.Ef6.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\Output\Repository.Pattern.Ef6.pdb

@@ -1,0 +1,17 @@
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\obj\Debug\eLimsWebSeries.ResourceServer.Dal.csprojResolveAssemblyReference.cache
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\eLimsWebSeries.ResourceServer.Dal.dll.config
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\eLimsWebSeries.ResourceServer.Dal.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\eLimsWebSeries.ResourceServer.Dal.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\eLimsWebSeries.ResourceServer.Entity.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\EntityFramework.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\Repository.Pattern.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\Repository.Pattern.Ef6.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\LinqKit.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\eLimsWebSeries.ResourceServer.Entity.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\EntityFramework.xml
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\Repository.Pattern.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\obj\Debug\eLimsWebSeries.ResourceServer.Dal.dll
+C:\Users\fzcl\Documents\eLimsWebSeries\eLimsWebSeries.ResourceServer\eLimsWebSeries.ResourceServer.Dal\obj\Debug\eLimsWebSeries.ResourceServer.Dal.pdb

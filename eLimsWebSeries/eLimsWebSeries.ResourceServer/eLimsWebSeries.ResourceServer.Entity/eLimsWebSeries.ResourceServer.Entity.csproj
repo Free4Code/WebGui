@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8558B21E-A7A0-40EE-8ADA-107E9B84195F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eLimsWebSeries.ResourceServer.Entity</RootNamespace>
+    <AssemblyName>eLimsWebSeries.ResourceServer.Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Repository.Pattern, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Output\Repository.Pattern.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClasses\DeliveredEntityBase.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredLanguage.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredLanguageTranslation.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixPropertyChoiceTranslation.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixPropertyTracking.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixPropertyTranslation.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixPropertyValue.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixTracking.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixTranslation.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredTechnicalTracking.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredTracking.cs" />
+    <Compile Include="Interfaces\IEntityWithTranslations.cs" />
+    <Compile Include="Interfaces\ILanguageEntity.cs" />
+    <Compile Include="Interfaces\ITranslatedEntity.cs" />
+    <Compile Include="NotImplemented\DesignOfUserInterfaceTag.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixProperty.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrixPropertyChoice.cs" />
+    <Compile Include="NotImplemented\DesignOfUserInterfaceTagTranslation.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfLanguage.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfLanguageTranslation.cs" />
+    <Compile Include="Entities\DeliveredEntities\DeliveredMatrix.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrix.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixProperty.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixPropertyChoice.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixPropertyChoiceTranslation.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixPropertyTracking.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixPropertyTranslation.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixPropertyValue.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixTracking.cs" />
+    <Compile Include="Entities\DesignEntities\DesignOfMatrixTranslation.cs" />
+    <Compile Include="BaseClasses\StateTrackingBase.cs" />
+    <Compile Include="BaseClasses\EntityBase.cs" />
+    <Compile Include="Enums\MatrixPropertyTypeEnum.cs" />
+    <Compile Include="Enums\MatrixPropertyValueNumericalTypeEnum.cs" />
+    <Compile Include="Enums\MatrixTypeEnum.cs" />
+    <Compile Include="Enums\StateEnum.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Settings.StyleCop" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
