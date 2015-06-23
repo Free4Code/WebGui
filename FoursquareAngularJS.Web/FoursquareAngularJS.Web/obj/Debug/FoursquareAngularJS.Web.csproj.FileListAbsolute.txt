@@ -1,0 +1,14 @@
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\FoursquareAngularJS.Web.dll.config
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\FoursquareAngularJS.Web.dll
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\FoursquareAngularJS.Web.pdb
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\Newtonsoft.Json.dll
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\System.Web.Http.dll
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\Newtonsoft.Json.xml
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\System.Web.Http.xml
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\obj\Debug\FoursquareAngularJS.Web.csprojResolveAssemblyReference.cache
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\obj\Debug\FoursquareAngularJS.Web.dll
+C:\Users\fzcl\Documents\Visual Studio 2013\Projects\FoursquareAngularJS.Web\FoursquareAngularJS.Web\obj\Debug\FoursquareAngularJS.Web.pdb
